@@ -2,7 +2,7 @@ body {
     background-color: #000000;
 }
 h1{
-    color:#FFFFFF;
+    color:#c20000;
     text-align:center;
     font-family: Garamond, serif;
 }
@@ -27,4 +27,11 @@ h1{
 
 .navbar a:hover {
     background-color: #353333;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
 }
